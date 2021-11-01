@@ -1,0 +1,14 @@
+{
+  "name": "node-home-work",
+  "version": "1.0.0",
+  "description": "access to my system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SeregaWEB",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.14"
+  }
+}
