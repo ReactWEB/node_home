@@ -1,0 +1,5 @@
+My OS:
+platform: 'win32',
+architect: 'x64',
+memory: 928329728,
+hostinfo: 'DESKTOP-RRPJTHD'
